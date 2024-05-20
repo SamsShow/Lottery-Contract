@@ -34,7 +34,7 @@ yarn.lock
 # Ignore test coverage reports
 /coverage
 
-# Ignore environment specific files
+
 .env.local
 .env.development
 .env.production
