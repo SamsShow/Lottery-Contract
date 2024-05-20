@@ -18,6 +18,7 @@
     "solidity-coverage": "^0.7.13"
   },
   "devDependencies": {
-    "@nomicfoundation/hardhat-verify": "^2.0.6"
+    "@nomicfoundation/hardhat-verify": "^2.0.6",
+    "hardhat": "^2.22.4"
   }
 }
